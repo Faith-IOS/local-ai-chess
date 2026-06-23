@@ -1,0 +1,6 @@
+{
+  "name": "8-Bit Chess with Gemma",
+  "description": "A cutesy 8-bit retro chess game where you play against a local Gemma model running in LM Studio (with full fallback rules and retro synth sound effects).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
